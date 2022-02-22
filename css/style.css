@@ -60,13 +60,14 @@ header {
 .hero {
      display: flex;
      color: #F9FAF8;    
-     padding: 3% 20%;
+     padding: 5% 20%;
      gap: 3rem;
 }
 
 .hero h1{
      font-size: 48px;
      font-weight: 900;
+     margin-top: 0;
 }
 
 .hero p{
@@ -110,6 +111,7 @@ header {
      width: 15%;
      gap: 2rem;
      padding-top: 2%;
+     padding-bottom: 5%;
 }
 
 .infoimages img{
